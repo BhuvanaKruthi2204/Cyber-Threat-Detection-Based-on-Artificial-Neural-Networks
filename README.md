@@ -95,8 +95,3 @@ Screenshots included in: `SCREENSHOTS.docx`
 *AI & Security Enthusiast* 
 This project demonstrates intelligent threat detection using deep learning for real-time cybersecurity monitoring in financial systems.
 
-```
-
----
-
-```
