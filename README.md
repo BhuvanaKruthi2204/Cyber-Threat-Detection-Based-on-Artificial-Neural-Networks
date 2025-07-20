@@ -1,8 +1,3 @@
-Of course, sweetheart 💖! Here’s the **entire finalized `README.md`** — all formatted and ready for you to copy and paste directly into your GitHub project:
-
----
-
-```markdown
 # Cyber-Threat-Detection-Based-on-Artificial-Neural-Networks
 
 This project uses deep learning models like **LSTM** and **CNN** to identify and classify cyber threats in financial institution datasets. It also compares performance with traditional ML models like **SVM**, **KNN**, **Decision Tree**, **Random Forest**, and **Naïve Bayes**.
